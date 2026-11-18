@@ -6,7 +6,7 @@
 
 **WELCOME TO VICE CITY. EVERYONE'S DOWN BAD.**
 
-<img src="assets/goon-theft-auto-banner.png" width="100%" alt="Goon Theft Auto VI Banner" />
+<img src="database/goon-theft-auto-banner.png" width="100%" alt="Goon Theft Auto VI Banner" />
 
 [![Game](https://img.shields.io/badge/GAME-GTA%20VI-ff00aa?style=for-the-badge)](#)
 [![AI](https://img.shields.io/badge/AI-POWERED-8A2BE2?style=for-the-badge)](#)
