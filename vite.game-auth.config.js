@@ -2,7 +2,7 @@ import vue from '@vitejs/plugin-vue'
 import laravel from 'laravel-vite-plugin'
 import path from 'path'
 import VueMacros from 'unplugin-vue-macros/vite'
-import { defineConfig } from 'vite'
+import { defineConfig } from 'vite' 
 import svgLoader from 'vite-svg-loader'
 
 const domain = process.env.APP_URL ? process.env.APP_URL.replace(/https?:\/\//gi, '') : undefined
