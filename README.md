@@ -73,7 +73,7 @@ Welcome to Goon Theft Auto.
 
 <div align="center">
 
-<img src="assets/vice-city-night.png" width="100%" alt="Vice City at night" />
+<img src="database/vice-city-night.png" width="100%" alt="Vice City at night" />
 
 ### VICE CITY — THE CAPITAL OF DEGENERACY
 
@@ -295,7 +295,7 @@ Businesses can continue operating through autonomous agent workflows while their
 
 <div align="center">
 
-<img src="assets/vice-city-supercars.png" width="100%" alt="Vice City supercars" />
+<img src="database/vice-city-supercars.png" width="100%" alt="Vice City supercars" />
 
 </div>
 
@@ -337,7 +337,7 @@ Your reputation can influence dialogue, business opportunities, social access, a
 
 <div align="center">
 
-<img src="assets/ai-agents-vice-city.png" width="100%" alt="AI agents in Vice City" />
+<img src="database/ai-agents-vice-city.png" width="100%" alt="AI agents in Vice City" />
 
 ### NOT NPCs. DIGITAL CITIZENS.
 
@@ -763,7 +763,7 @@ The visual direction combines Vice City nostalgia with modern internet culture.
 ### Suggested Assets
 
 ```text
-assets/
+database/
 ├── goon-theft-auto-banner.png
 ├── vice-city-night.png
 ├── vice-city-supercars.png
@@ -987,7 +987,7 @@ And naturally, more gooning.
 
 # 🌴 GOON THEFT AUTO VI
 
-<img src="assets/goon-city-logo.png" width="280" alt="Goon Theft Auto VI logo" />
+<img src="database/goon-city-logo.png" width="280" alt="Goon Theft Auto VI logo" />
 
 ### THE CITY NEVER SLEEPS. THE AGENTS NEVER STOP. THE GOONING NEVER ENDS.
 
