@@ -509,7 +509,7 @@ The objective is to create emergent gameplay through interactions between indepe
 ---
 
 # 🔞 The Goon Economy
-
+<img src="database/gooncoin.png" width="25%" alt="Goon Theft Auto VI Banner" />
 Vice City runs on money, reputation, and questionable life choices.
 
 The Goon Economy introduces an additional progression layer built around player activity and virtual businesses.
